@@ -1,0 +1,35 @@
+		body{
+			background-color:grey
+		}
+		label{
+			font-size: 30px;
+			font-weight: bold;
+		}
+		input{
+			text-align: center;
+			border-radius: 20px;
+			font-size: 30px
+		}
+		p{
+			text-align: center;
+			font-size: 50px;
+			color:rgb(61, 19, 3) ;
+			margin: 0;
+		}
+		div{
+			text-align: center;
+			margin-bottom: 15px;
+		}
+		button{
+			color: blue;
+			font-size: 20px;
+			margin-bottom: 10px;
+		}
+		button:hover{
+			background-color: grey;
+		}
+		h1{
+			text-align: center;
+			font-size: 60px;
+			color: rgb(61, 19, 3);
+		}
